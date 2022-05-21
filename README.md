@@ -36,4 +36,4 @@ Final Notes:
 
 - code isn't optimized a lot just take that in account for a better performance.
 
-[Download Releases](https://github.com/Alaa-Qa/8-Ball-Pool-Ball-Path-Prediction/releases) 
+[Precompiled binary](https://github.com/Alaa-Qa/8-Ball-Pool-Ball-Path-Prediction/releases) 
