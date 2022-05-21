@@ -20,6 +20,13 @@ Dependencies:
 
 [D2DOverlay precompiled lib](https://github.com/coltonon/D2DOverlay)
 
+Build:
+
+compile using microsoft visual studio version 2019/2022 with the following settings:
+
+- C++ language standard: Preview - Features from the Latest C++ Working Draft (/std:c++latest)
+- C language standard: ISO C17 (2018) Standard (/std:c17)
+
 Code documentation:
 
 unfortunately i'm not used to write documentation in my code, but i should start doing it.   
