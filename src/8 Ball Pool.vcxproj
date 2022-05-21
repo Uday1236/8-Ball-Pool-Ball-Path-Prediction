@@ -179,13 +179,16 @@
     <ClInclude Include="GenericData.h" />
     <ClInclude Include="OneTimeAssignment.h" />
     <ClInclude Include="Prediction.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="TableInfo.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
   <ItemGroup>
+    <ResourceCompile Include="8 Ball Pool.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="C:\Users\Alaa\Downloads\8BP.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
