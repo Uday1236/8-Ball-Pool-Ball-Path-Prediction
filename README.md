@@ -34,6 +34,8 @@ unfortunately i'm not used to write documentation in my code, but i should start
 
 Final Notes:
 
+- project for research purpose only
 - code isn't optimized a lot just take that in account for a better performance.
+
 
 [Precompiled binary](https://github.com/Alaa-Qa/8-Ball-Pool-Ball-Path-Prediction/releases) 
