@@ -6,8 +6,8 @@ Features:
 - Auto-Aim - disabled by default
 - AdBlock (Ad Break Screen)
 
-Video: [![Watch the video](https://img.youtube.com/vi/7-cKs1hOfdE/maxresdefault.jpg)](https://youtu.be/7-cKs1hOfdE)
-Video: [![Watch the video](https://img.youtube.com/vi/HDEl6VhCyag/maxresdefault.jpg)](https://youtu.be/HDEl6VhCyag)
+Preview: [![Watch the video](https://img.youtube.com/vi/HDEl6VhCyag/maxresdefault.jpg)](https://youtu.be/HDEl6VhCyag)
+Auto-Aim preview: https://youtu.be/7-cKs1hOfdE
 
 Supported Platforms:
 
