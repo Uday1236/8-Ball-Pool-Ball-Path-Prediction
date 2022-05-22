@@ -40,5 +40,5 @@ Usage:
 
 Final Notes:
 
-- project for research purpose only
+- I don't encourage using hacks in games, also i'm not responsible for any misuse/ban
 - code isn't optimized a lot just take that in account for a better performance.
